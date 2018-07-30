@@ -1,0 +1,252 @@
+Package: com.spicat.blurrybadges
+Version: 1.2
+Section: Tweaks
+Maintainer: SpicaT
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.blurrybadges_1.2_iphoneos-arm.deb
+Size: 39626
+Installed-Size: 392
+MD5sum: 7f3d71aedaec12774a7eee1ec68f5ad3
+Description: Add customizable blur to SpringBoard icon badges.
+Name: BlurryBadges
+Author: SpicaT
+
+Package: com.spicat.flashorama
+Version: 1.6.2
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 4) | cy+model.ipod (>= 5)
+Conflicts: org.thebigboss.flashorama
+Provides: org.thebigboss.flashorama
+Replaces: org.thebigboss.flashorama
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.flashorama_1.6.2_iphoneos-arm.deb
+Size: 38944
+Installed-Size: 712
+MD5sum: 5e0d654fe9321e3e18f7511c623a3909
+Description: use Torch when Capturing Panorama!
+Name: Flashorama
+Author: SpicaT
+Icon: file:///Library/PreferenceLoader/Preferences/Flashorama/Flasho@2x.png
+
+Package: com.spicat.forceinpicture
+Version: 1.0
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: com.cabralcole.forceinpicture
+Provides: com.cabralcole.forceinpicture
+Replaces: com.cabralcole.forceinpicture
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.forceinpicture_1.0_iphoneos-arm.deb
+Size: 3010
+Installed-Size: 136
+MD5sum: 76d2dc7630ccba2a3a391ab14e6d488a
+Description: Enable picture in picture feature with no crashes.
+Name: ForceInPicture
+Author: SpicaT
+
+Package: com.spicat.forceinpicture
+Version: 1.1
+Section: Tweaks
+Maintainer: SpicaT
+Depends: com.bingner.plutil, firmware (>= 11.0)
+Conflicts: com.cabralcole.forceinpicture
+Provides: com.cabralcole.forceinpicture
+Replaces: com.cabralcole.forceinpicture
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.forceinpicture_1.1_iphoneos-arm.deb
+Size: 974
+Installed-Size: 0
+MD5sum: f6af24030118b2b835b86358ca2b1f92
+Description: Enable picture in picture feature with no crashes.
+Name: ForceInPicture
+Author: SpicaT
+
+Package: com.spicat.internalphotos
+Version: 1.2
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: org.thebigboss.internalphotos
+Provides: org.thebigboss.internalphotos
+Replaces: org.thebigboss.internalphotos
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.internalphotos_1.2_iphoneos-arm.deb
+Size: 11774
+Installed-Size: 148
+MD5sum: b24d8febc48951582a1119e530cb446e
+Description: Enable hidden Photos internal settings.
+Name: InternalPhotos
+Author: SpicaT
+
+Package: com.spicat.phototorch
+Version: 1.7
+Section: Tweaks
+Maintainer: SpicaT
+Depends: firmware (>= 6.0), gsc.camera-flash, mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.phototorch
+Provides: org.thebigboss.phototorch
+Replaces: org.thebigboss.phototorch
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.phototorch_1.7_iphoneos-arm.deb
+Size: 153870
+Installed-Size: 1292
+MD5sum: 697658d67b384faa39cc44c8ffc4fdf7
+Description: adjustable torch for camera app.
+Name: PhotoTorch
+Author: SpicaT
+
+Package: com.spicat.recordntorch
+Version: 1.7.10
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), gsc.camera-flash, gsc.still-camera
+Conflicts: org.thebigboss.recordntorch
+Provides: org.thebigboss.recordntorch
+Replaces: org.thebigboss.recordntorch
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.recordntorch_1.7.10_iphoneos-arm.deb
+Size: 27594
+Installed-Size: 572
+MD5sum: 6c5aeec4c80ddbb6964f12e87e491299
+Description: Toggle Torch while recording video.
+Name: Record 'n' Torch
+Author: SpicaT
+Icon: file:///Library/PreferenceLoaders/Preferences/TFV/TFV@2x.png
+
+Package: com.spicat.recordpause
+Version: 1.3
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.recordpause_1.3_iphoneos-arm.deb
+Size: 18478
+Installed-Size: 420
+MD5sum: c511b9e2c3a84764b05a583578dc863d
+Description: Pause/resume video recording.
+Name: RecordPause
+Author: SpicaT
+Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
+
+Package: com.spicat.rwpslider
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.rwpslider_0.0.1_iphoneos-arm.deb
+Size: 3080
+Installed-Size: 72
+MD5sum: e989d17cfaba13ecdbe133f94216f793
+Description: Brightness slider for Reduce White Point when enabled.
+Name: RWP Slider
+Author: SpicaT
+
+Package: com.spicat.transparentcamerabar
+Version: 1.8
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), ws.hbang.common (>= 1.2), gsc.still-camera | gsc.front-facing-camera
+Conflicts: org.thebigboss.transparentcamerabar
+Provides: org.thebigboss.transparentcamerabar
+Replaces: org.thebigboss.transparentcamerabar
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.transparentcamerabar_1.8_iphoneos-arm.deb
+Size: 67716
+Installed-Size: 884
+MD5sum: 90d9c8d47cac5c3795020b240667a7a2
+Description: Set opacity, hide and shrink camera bars.
+Name: TransparentCameraBar
+Author: SpicaT
+Icon: file:///Library/PreferenceBundles/TransparentCameraBarSettings.bundle/TCB@2x.png
+
+Package: com.spicat.youpip
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, me.alfhaily.cercube, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.youpip_0.0.1_iphoneos-arm.deb
+Size: 2596
+Installed-Size: 136
+MD5sum: f14fb03b09f889c014d15fc0a2bde2f9
+Description: Enable PIP in native YouTube app.
+Name: YouPip
+Author: SpicaT
+
+Package: com.spicat.youpip
+Version: 0.0.2
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.youpip_0.0.2_iphoneos-arm.deb
+Size: 2686
+Installed-Size: 136
+MD5sum: b2f8e550e231a447bd478517b35c6a68
+Description: Enable PIP in native YouTube app.
+Name: YouPip
+Author: SpicaT
+
+Package: com.spicat.youpip
+Version: 0.0.3
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.youpip_0.0.3_iphoneos-arm.deb
+Size: 2896
+Installed-Size: 136
+MD5sum: cc93bfd1b4c704ae5fd2287afe0d8f85
+Description: Enable PIP in native YouTube app.
+Name: YouPip
+Author: SpicaT
+
+Package: com.spicat.youpip
+Version: 0.0.4.1
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, com.spicat.forceinpicture (>= 1.1) | gsc.ipad
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.youpip_0.0.4.1_iphoneos-arm.deb
+Size: 2074
+Installed-Size: 72
+MD5sum: 676491e496dfa9732a3bc53714c62461
+Description: Enable PIP in native YouTube app.
+Name: YouPIP
+Author: SpicaT
+Depiction: https://spicat.github.io/depiction/youpip.html
+
+Package: com.spicat.youpip
+Version: 0.0.4.2
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, com.spicat.forceinpicture (>= 1.1) | gsc.ipad
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.youpip_0.0.4.2_iphoneos-arm.deb
+Size: 2214
+Installed-Size: 72
+MD5sum: c12580460c06eb883ea05543b2c8704e
+Description: Enable PIP in native YouTube app.
+Name: YouPIP
+Author: SpicaT
+Depiction: https://spicat.github.io/depiction/youpip.html
+
+Package: com.spicat.youpip
+Version: 0.0.4
+Section: Tweaks
+Maintainer: SpicaT
+Depends: mobilesubstrate, com.spicat.forceinpicture (>= 1.1)
+Architecture: iphoneos-arm
+Filename: ./debs//com.spicat.youpip_0.0.4_iphoneos-arm.deb
+Size: 2038
+Installed-Size: 72
+MD5sum: 1310e6bd00a765acd59ef23127f4b578
+Description: Enable PIP in native YouTube app.
+Name: YouPIP
+Author: SpicaT
+
